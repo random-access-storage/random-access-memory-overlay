@@ -17,12 +17,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mafintosh/random-access-memory-overlay.git"
+    "url": "https://github.com/random-access-storage/random-access-memory-overlay.git"
   },
   "author": "Mathias Buus (@mafintosh)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mafintosh/random-access-memory-overlay/issues"
+    "url": "https://github.com/random-access-storage/random-access-memory-overlay/issues"
   },
-  "homepage": "https://github.com/mafintosh/random-access-memory-overlay"
+  "homepage": "https://github.com/random-access-storage/random-access-memory-overlay"
 }
